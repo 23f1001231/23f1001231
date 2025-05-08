@@ -1,10 +1,10 @@
 # 💫 About Me:
-- 🎓 Background in Data Science, AI/ML
+- 🎓 Background in Computer Science Engineering, Programming & Data Science, AI and ML Practices
 - 💡 Specializing in **Machine Learning**, **Deep Learning**, and **Data Visualization**
-- 🛠️ Skilled in Python, C/C++, Java, JavaScript, SQL, and more!
-- 📊 Love exploring data and uncovering hidden patterns
-- 🌱 Currently learning: [Your Current Learning Focus]
-- 💬 Ask me about **data science**, **AI**, or **open-source**!
+- 🛠️ Skilled in Python, C/C++, DSA, Java, JavaScript, VueJs, Flask, FastAPI, DBMS, SQL, Linux and more!
+- 📊 Love exploring data, uncovering hidden patterns and resolving issues
+- 🌱 Currently learning: Quantum Computing and Cyber Security/Vulnerability
+- 💬 Ask me about **Programming & Data Science**, or **Open-Source**!
 
 
 # 💻 Tech Stack:
